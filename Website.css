@@ -1,0 +1,80 @@
+body{color:black;
+}
+
+/* Heading section styling */
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: black;
+    margin:0;
+    padding: 200px;
+    background-color: #f2f2f2;
+}
+    
+
+h2{ font-family: 'Baskervville', serif;
+    font-weight: 200; 
+    font-size: 25px;
+    font-style: normal;
+    color:black;
+    padding: 20px;}
+
+
+h3{ font-family: 'Baskervville', serif;
+    font-size: 20px;
+
+}
+.articles, .contacts, .about, .work {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    padding-top: 20px;
+    padding-bottom: 70px ;
+    text-align:center;
+  }
+h1, h2, h3, p { text-align:center;
+}
+
+/* ABOUT section styling */
+.about { background-color: #57ba98;
+    color: black;
+    padding-top: 20px;
+    padding-bottom: 70px ;}
+
+/* WORK section styling */
+.work {background-color: #3b945e;
+    padding-top: 20px;
+    padding-bottom: 70px;
+}
+.work, h2 { padding-top: 20px;
+    padding-bottom: 70px;
+}
+
+    /* Buttons styling */
+.work a{ border: 3px solid;
+    border-radius: 10px;
+    border-color:#f2f2f2ec;
+    padding: 30px;
+    background-color: #f2f2f2;
+    color:black; 
+    margin: 10px; 
+}
+
+.work a:hover {
+    background: white;
+    border: 1px solid #57ba98;
+    color: #57ba98;
+    padding: 30px 50px; }
+
+/* ARTICLES section styling */
+.articles{ background-color: #f2f2f2;
+    color: #151e38;
+    padding-top: 20px;
+    padding-bottom: 70px ;
+}
+
+/* CONTACT section styling */
+.contact{background-color: #57ba98;
+    color: #151e38;
+    padding-top: 20px;
+    padding-bottom: 70px ;
+}

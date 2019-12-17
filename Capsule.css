@@ -1,0 +1,7 @@
+/* Styling of body text */
+body {color:black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    background-color: #f2f2f2;
+    margin: 20px;
+}
